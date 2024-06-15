@@ -17,6 +17,13 @@
 
 # 메인화면
 ![메인화면](https://github.com/skd9712/Hstagram/assets/59557044/1079dee8-4c8c-4d41-b7b9-97bf845a2f6e)
-
+# 프로필
+![프로필](https://github.com/skd9712/Hstagram/assets/59557044/850520c3-683f-4270-86d1-aca2c5629d7f)
+# 좋아요 및 저장기능
+![좋아요및저장](https://github.com/skd9712/Hstagram/assets/59557044/8965ddd6-6345-4f78-a0ba-6f128bc74a59)
+# 업로드
+![업로드](https://github.com/skd9712/Hstagram/assets/59557044/d5522ec0-a99e-4718-a783-0e93c495c9d3)
+# 댓글
+![댓글](https://github.com/skd9712/Hstagram/assets/59557044/d670c8c5-d53f-4da2-bbaa-78342b62d767)
 # Hstagram 추후 계획
 팔로워 추가 필요
