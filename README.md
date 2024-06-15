@@ -15,5 +15,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
+# 메인화면
+![메인화면](https://github.com/skd9712/Hstagram/assets/59557044/1079dee8-4c8c-4d41-b7b9-97bf845a2f6e)
+
 # Hstagram 추후 계획
 팔로워 추가 필요
