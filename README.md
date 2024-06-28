@@ -1,4 +1,7 @@
+![Hstagram Onboarding](https://github.com/skd9712/Hstagram/assets/59557044/4dd2b615-2240-42e1-92f1-7566f7821f29)
 # :sparkles: 인스타그램 클론코딩
+
+
 - 개발기간 2023-07-01~2023-07-10
 
 ## :sparkles: 프로젝트 목적
